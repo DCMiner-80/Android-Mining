@@ -1,14 +1,14 @@
 {
 	"pools":[
 	{
-		"name": "verus.aninterestinghole.xyz",
-        "url": "stratum+tcp://verus.aninterestinghole.xyz:9998",
+		"name": "VIPOR.NET",
+        "url": "stratum+tcp://us.vipor.net:5040",
 		"timeout": 150,
 		"disabled": 0
 	},
 	{
-		"name": "pool.verus.io",
-        "url": "stratum+tcp://pool.verus.io:9998",
+		"name": "verus.aninterestinghole.xyz",
+        "url": "stratum+tcp://verus.aninterestinghole.xyz:9998",
 		"timeout": 60,
 		"time-limit": 600,
 		"disabled": 0
